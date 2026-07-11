@@ -1,39 +1,33 @@
 class Solution {
-    private:
-    vector<int> DFS(int e , vector <vector<int>>&adj, vector<int>& nodes , unordered_set<int>& visited ){
-        if (visited.count(e)) return {};
-        visited.insert(e);
-        nodes.push_back(e);
-
-        for(auto& neigh: adj[e]){
-            DFS (neigh , adj , nodes, visited );
+    void dfs(int curr, int& nodes, int& edges, vector<vector<int>>& adj, vector<bool>& visited){
+        nodes++;
+        visited[curr] = true;
+        for(int& nbr: adj[curr]){
+            edges++;
+            if(!visited[nbr]){
+                dfs(nbr, nodes, edges, adj, visited);
+            }
         }
-        return nodes;
     }
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        vector<vector<int>>adj(n+1);
-        for(auto& e : edges){
-            int u =e[0], v = e[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        vector<vector<int>> adj(n);
+        for(auto &edge : edges){
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
         }
-        int cnt = 0;
-        unordered_set<int>visited;
-        for( int i=0; i<n; i++){
-            if(visited.count(i)) continue;
-            vector < int> nodes;
-            vector<int> components = DFS (i, adj, nodes , visited);
-            bool flag =true;
-            for(auto& i: components){
-                if ( adj [i].size() != components.size() -1 ){
-                    flag = false;
-                    break;
+        int complete_components = 0;
+        vector<bool> visited(n,false);
+        for(int i=0;i<n;++i){
+            if(!visited[i]){
+                int edges = 0;
+                int nodes = 0;
+                dfs(i,nodes,edges,adj,visited);
 
-                }
+                if(edges == (nodes*(nodes-1)))
+                    complete_components++;
             }
-            if (flag ) cnt++;
         }
-        return cnt;
+        return complete_components;
     }
 };
