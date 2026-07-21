@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
