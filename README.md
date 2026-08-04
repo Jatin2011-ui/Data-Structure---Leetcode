@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1406-stone-game-iii) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
