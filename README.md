@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0704-binary-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
