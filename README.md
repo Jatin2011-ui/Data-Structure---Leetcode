@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0877-stone-game) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
