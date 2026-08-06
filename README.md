@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0344-reverse-string) |
@@ -257,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
