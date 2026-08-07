@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0013-roman-to-integer) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1331-rank-transform-of-an-array) |
