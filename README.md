@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
