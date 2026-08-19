@@ -1,7 +1,11 @@
+//Approach-1 (Greedy Pick using map)
+//T.C : O(N), N = reservedSeats.size()
+//S.C : O(N), for storing reswerved seats in map (in form of unordered_set)
+
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int,unordered_set<int>> mp;
+        unordered_map<int,unordered_set<int>> mp; //row -> seats in each row booked
 
         for(auto& reservedSeat: reservedSeats){
             int row = reservedSeat[0];
