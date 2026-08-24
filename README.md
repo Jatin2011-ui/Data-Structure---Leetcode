@@ -114,12 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -358,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
