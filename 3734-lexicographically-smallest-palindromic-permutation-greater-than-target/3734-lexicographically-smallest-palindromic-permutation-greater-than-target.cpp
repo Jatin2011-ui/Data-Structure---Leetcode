@@ -1,6 +1,3 @@
-//T.C = O(n)
-//S.C = O(n)
-
 class Solution {
 public:
     string result = "";
@@ -8,12 +5,12 @@ public:
     int half = 0;
     bool solve(string& curr, vector<int>& count, string& target, int i, bool greater){
         if(i == half){
-            string candidate = curr; //left half
+            string candidate = curr; 
             string righthalf = candidate;
-            reverse(begin(righthalf), end(righthalf));//right half
+            reverse(begin(righthalf), end(righthalf));
 
             if(midchar != '$')  
-                candidate += midchar;//mid character 
+                candidate += midchar;
             
             candidate += righthalf;
             if(candidate > target){
@@ -57,7 +54,6 @@ public:
         if(oddcount > 1){
             return "";
         }
-        //left-half count + middle char (only when n is odd)
         vector<int> halfcount(26,0);
         for(int c=0;c<26;c++){
             halfcount[c] = count[c] / 2;
