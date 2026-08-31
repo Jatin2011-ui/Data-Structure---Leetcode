@@ -1,33 +1,36 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        int minDist = INT_MAX;
+                int firstCriticalIndex = 0;
+                int previousCriticalIndex = 0;
 
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        int currPos = 1;
-        int previousCriticalIndex = 0;
-        int firstCriticalIndex = 0;
+                int prevVal = 0;
+                int currVal = 0;
+                int nextVal = 0;
 
-        while(curr->next != NULL){
-            if((curr->val < prev->val && curr->val < curr-> next->val) ||
-            (curr->val > prev->val && curr->val > curr->next->val)){
-                if(previousCriticalIndex == 0){ 
-                    previousCriticalIndex = currPos;
-                    firstCriticalIndex = currPos;
-                }else{
-                    minDist = min(minDist, currPos - previousCriticalIndex);
-                    previousCriticalIndex = currPos;
+                int minDist = INT_MAX;
+                int index = 0;
+                vector<int> result = {-1,-1};
+
+                while(head != NULL){
+                    prevVal = currVal;
+                    currVal = nextVal;
+                    nextVal = head->val;
+
+                    if(prevVal != 0 && currVal != 0 && nextVal != 0 && 
+                    (prevVal > currVal && currVal < nextVal || 
+                    prevVal < currVal && currVal > nextVal)){
+                        if(firstCriticalIndex == 0){
+                            firstCriticalIndex = index;
+                        }else{
+                            minDist = min(minDist, index - previousCriticalIndex);
+                            result = {minDist, index - firstCriticalIndex};
+                        }
+                        previousCriticalIndex = index;
+                    }
+                    index++;
+                    head = head->next;
                 }
-            }
-            currPos++;
-            prev = curr;
-            curr = curr->next;
-        }
-        if(minDist == INT_MAX){
-            return {-1,-1};
-        }
-        int maxDist = previousCriticalIndex - firstCriticalIndex;
-        return {minDist, maxDist};
+                return result;
     }
 };
