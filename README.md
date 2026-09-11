@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
