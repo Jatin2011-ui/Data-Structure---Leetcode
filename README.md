@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1260-shift-2d-grid) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Segment Tree
