@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3310-remove-methods-from-project) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
