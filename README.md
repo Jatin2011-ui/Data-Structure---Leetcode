@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0856-score-of-parentheses) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jatin2011-ui/Data-Structure---Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
