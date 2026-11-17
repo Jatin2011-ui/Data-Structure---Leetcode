@@ -15,7 +15,7 @@ public:
                 continue;
             
             int cost = 0;
-            for(int group = 0; group < d; group++){
+            for(int group = 0; group < d; group++){//for d, we will have d groups
                 int l = i + group;
                 int r = l + (len/d - 1) * d;
 
@@ -58,7 +58,7 @@ public:
     int minimumChanges(string s, int k) {
         n = s.length();
         str = s;
-        costmemo.assign(n+1, vector<int>(n+1, -1));
+        costmemo.assign(n+1, vector<int>(n+1, -1));//n*n
         memo.assign(n+1, vector<int>(k+1, -1));
         return solve(0,k);
     }
